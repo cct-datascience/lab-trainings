@@ -64,6 +64,19 @@ Things to consider:
 
 -   How to receive review
 
+### Rubric
+
+Here's a rubric I created that could be used during peer code review in a life sciences research group.
+
+A score of 4 is exceptional while 1 is unsatisfactory and in need of improvement.
+
+|                           | 4                                                                                                                                                                              | 3                                                                                                                               | 2                                                                                                                       | 1                                                                        |
+|------------|-------------------|-----------------|--------------|------------|
+| Reproducibility           | Unmodified code runs on another machine without error.                                                                                                                         | Code must me minimally modified to run without error. Necessary modifications documented.                                       | Code must be modified in multiple places or ways to run without error. Necessary modifications are not well documented. | Very difficult or impossible to reproduce analysis.                      |
+| Code Readability          | Code is formatted with human readability in mind. Variable and function names are concise, descriptive, and unambiguous. Follows a consistent style that improves readability. | Code is human readable, but could be improved. Variable or function names could be improved. Styling of code could be improved. | Readability of code could be improved in more than one way.                                                             | Format of code impedes readability.                                      |
+| Documentation             | Code is understandable from documentation and comments alone.                                                                                                                  | Most complex code and functions are documented properly.                                                                        | There are some comments, but major portions of code are left uncommented                                                | Essentially no comments or documentation                                 |
+| Correctness / reusability | Analysis produces correct results, even with modified or updated data.                                                                                                         | Minor changes are needed to produce correct results when data are modified or updated.                                          | Code is of limited reusability and must be heavily edited to apply to modified or updated data.                         | Mistakes in the analysis result in incorrect results with original data. |
+
 ::: callout-tip
 ## Exercise
 
@@ -82,7 +95,7 @@ How should peer code reviewers be acknowledged?
 Check out the [CRediT](https://credit.niso.org/) and [MeRIT](https://www.nature.com/articles/s41467-023-37039-1) frameworks for inspiration!
 :::
 
-##  When to do peer code review?
+## When to do peer code review?
 
 ::: callout-note
 ## Discussion
