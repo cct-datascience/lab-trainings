@@ -1,0 +1,94 @@
+---
+title: "Creating a Culture of Peer Code Review"
+author: "Eric R. Scott"
+format: html
+editor: visual
+bibliography: references.bib
+---
+
+### Homework:
+
+Before this meeting, everyone should bring a script (along with any data or files needed to make it work) that they can share for review—it doesn't have to be related to your research.
+If someone doesn't have a script to share (e.g. a new lab member), they can use one of the example scripts we've provided.
+The point is to practice the process of peer code review, so it doesn't really matter what the code is!
+
+## What is peer code review?
+
+Peer code review is the practice of reviewing a team member's computer code for potential problems.
+It's used commonly in the software industry and has been adapted as a teaching tool in many computer science courses [@hundhausen2009; @song2020].
+Since writing computer code has become a ubiquitous part of many fields outside of computer science, it makes sense to adapt this practice.
+This module focuses on developing some lab policies and procedures around peer code review and will give you an opportunity to practice!
+
+## Why practice peer code review?
+
+::: callout-note
+## Discussion
+
+Take a moment to think, then discucss:
+
+Do you ever feel reluctant to share your code?
+That's ok!
+Sharing code can make us feel vulnerable in many ways.
+What are some concerns you have about sharing your code with the world?
+:::
+
+Along with the rise in code being used in many areas of science, there is a so-called "reproducibility crisis" where the results of many studies cannot be reproduced from the code that is provided.
+Errors in code or problems with reproducibility can result in incorrect conclusions and potentially corrections or even retractions in published works.
+One reason to practice peer code review is to hopefully catch any issues early on to save wasted time.
+Another major benefit of peer code review is the opportunity to learn from eachother.
+Many of us are self-taught coders and we pick up tips and tricks from various sources that save us time and allow us to write better code.
+Peer code review is a great way to open up conversations about these tips and to learn ways to make our lives easier when it comes to coding.
+
+## How to do peer code review?
+
+Things to consider:
+
+-   Consider that this is a scary process for many.
+    Sharing code is a vulnerable act, treat people with kindness.
+
+-   How much time to spend
+
+-   In the same room or as "homework"?
+
+-   how to share code (email vs. thumb drive, vs. GitHub)
+
+-   How to conduct review <!--# get inspiration from reprohack website for this section -->
+
+    -   with kindness
+
+    -   on a different computer from the one where the code was written
+
+    -   use rubric as guide for what to look for
+
+-   How to share review
+
+-   How to receive review
+
+::: callout-tip
+## Exercise
+
+Partner up with a peer code reviewer!
+Share your prepared scripts with eachother and also *briefly* share with eachother what you hope to get out of the review.
+
+If time permits (min 20 minutes), get started on the peer review.
+As questions about the process come up, feel free to raise your hand and interrupt the group to discuss.
+The point here is not to complete a full review of your partner's code, but to work out any kinks in the process of doing a code review!
+:::
+
+::: callout-note
+## Discussion
+
+How should peer code reviewers be acknowledged?
+Check out the [CRediT](https://credit.niso.org/) and [MeRIT](https://www.nature.com/articles/s41467-023-37039-1) frameworks for inspiration!
+:::
+
+##  When to do peer code review?
+
+::: callout-note
+## Discussion
+
+-   At what point in a project would this be useful?
+
+-   In what venue should this be done?
+    E.g. at a lab meeting, at a special peer code review "club", individually scheduled events.
+:::
