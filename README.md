@@ -1,2 +1,2 @@
 # lab-trainings
-Experimenting with lab group level training material
+A place to house experimental curriculum for creating lab group level trainings in open and repoducible science.  The idea is to provide materials that a lab group can use to lead a lab group meeting or two with a data science trainer possibly attending as an advisor (but not leading the meeting). This idea came from discussions with @kristinariemer and Lia Ossanna about the need for lab culture buy-in to really promote collaborative open science in a way that actually works.
